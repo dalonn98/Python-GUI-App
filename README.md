@@ -11,5 +11,6 @@ Creating your first app with PySide6
 
 PySide6 Signals, Slots & Events
 
-PySide6 Widgets )) Now
+PySide6 Widgets
 
+PySide6 Layouts )) Now
